@@ -1,6 +1,6 @@
 # Bienvenido 
 
-Desarrollador web con las siguientes habilidades
+Desarrollador con las siguientes habilidades
 
 - Python 
 - FastAPI
