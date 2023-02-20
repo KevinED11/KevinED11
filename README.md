@@ -7,4 +7,5 @@ Desarrollador con las siguientes habilidades
 - Postgresql
 - Git
 - Basic english 
-- Linux 
+- Linux
+- Docker 
