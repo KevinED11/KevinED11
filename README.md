@@ -8,4 +8,4 @@ Desarrollador con las siguientes habilidades
 - Git
 - Basic english 
 - Linux
-- Docker 
+ 
